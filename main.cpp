@@ -1,4 +1,17 @@
 #include <QCoreApplication>
+class steck
+{
+
+    public:
+    class Node
+    {
+    public:
+        int val;
+        Node *next;
+    };
+
+
+};
 
 class A
 {
